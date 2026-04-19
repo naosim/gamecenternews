@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>クレーンゲームニュース</title>
+    <link>https://example.com</link>
+    <description>クレーンゲームの新店舗情報を每日をお届け</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 19 Apr 2026 12:41:23 GMT</lastBuildDate>
+    <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[中国地方初出店！クレーンゲーム専門店「クレーン横丁 極(きわみ)境港店」4月24日(金)にグランドオープン]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000001222.000060567.html</link>
+      <pubDate>Mon, 06 Apr 2026 01:30:00 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
+    <item>
+      <title><![CDATA[カプセルトイとクレーンゲームが一緒に楽しめる、ゲオグループの新しいアミューズメント施設　『カプセル楽局PLUS南流山店』3月20日（金・祝）オープン]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000000198.000141539.html</link>
+      <pubDate>Thu, 19 Mar 2026 05:00:00 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
+    <item>
+      <title><![CDATA[【地域トップクラス、圧巻の270台超え！】クレーンゲーム専門店「ツカモーヨ」が「マリコム磯子」にオープン！　オトクに楽しく景品”ツカモーヨ”！]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000005680.000013450.html</link>
+      <pubDate>Wed, 18 Mar 2026 02:00:00 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
+    <item>
+      <title><![CDATA[1階も2階も楽しめる！「あそびの広場 名西店」1階フードコート前にクレーンゲームコーナー増床オープン]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000000024.000118739.html</link>
+      <pubDate>Wed, 18 Mar 2026 01:00:00 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
+    <item>
+      <title><![CDATA[大阪初上陸！クレーンゲーム専門店「アソビクルハンターズ堺三国ケ丘店」3月10日(火)オープン]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000000006.000064370.html</link>
+      <pubDate>Tue, 10 Mar 2026 02:45:00 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
+    <item>
+      <title><![CDATA[四国地方初出店！クレーンゲーム専門店「クレーン横丁 極(きわみ)」が小松島ショッピングプラザルピアに３月24日(火)にオープン]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000001202.000060567.html</link>
+      <pubDate>Thu, 05 Mar 2026 01:00:00 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
+    <item>
+      <title><![CDATA[期間限定で展開！TBSサタプラ ランキングNo.1　入手困難！「クリームシチューキャッチャー」3/1よりクレーンゲーム専門店にて展開開始]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000000232.000024989.html</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
+    <item>
+      <title><![CDATA[3月３日クレーンゲームの日特別企画人気テレビ番組でお馴染みのクレーンゲームのプロ五十嵐直也氏 完全プロデュース「クレーンゲーム達人の必勝カレー」エブリデイ全店で導入！]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000000233.000024989.html</link>
+      <pubDate>Fri, 27 Feb 2026 04:00:00 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
+    <item>
+      <title><![CDATA[三重県にGiGOのクレーンゲーム専門店が初登場！「GiGOクレーンゲームオアシス イオンモール桑名」2026年2月20日(金)10時グランドオープン]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000001103.000034930.html</link>
+      <pubDate>Fri, 20 Feb 2026 06:30:00 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
+    <item>
+      <title><![CDATA[ミーク、ファミリーマート店舗に設置されるファミマクレーンゲームに『MEEQ SIM』と専用ルーターが採用]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000000145.000073834.html</link>
+      <pubDate>Thu, 19 Feb 2026 04:30:00 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
+  </channel>
+</rss>
