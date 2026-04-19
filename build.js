@@ -8,7 +8,7 @@ const SITE_URL = 'https://example.com';
 const MAX_HISTORY = 100;
 const MAX_PAGES = 5;
 const CACHE_FILE = path.join(__dirname, 'dist/data/cache.json');
-const CACHE_DURATION = 12 * 60 * 60 * 1000; // 12 hours
+const CACHE_DURATION = 10 * 60 * 60 * 1000; // 10 hours
 
 async function fetchKeywords() {
   const data = fs.readFileSync(path.join(__dirname, 'config/keywords.json'), 'utf-8');
