@@ -80,7 +80,7 @@
 ```json
 {
   "new_store_keywords": [
-    "クレーン"
+    "店"
   ]
 }
 ```
