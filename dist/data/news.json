@@ -47,30 +47,42 @@
       "date": "2026年2月27日 13時00分",
       "url": "https://prtimes.jp/main/html/rd/p/000000233.000024989.html",
       "source": "株式会社東洋"
-    },
-    {
-      "title": "三重県にGiGOのクレーンゲーム専門店が初登場！「GiGOクレーンゲームオアシス イオンモール桑名」2026年2月20日(金)10時グランドオープン",
-      "date": "2026年2月20日 15時30分",
-      "url": "https://prtimes.jp/main/html/rd/p/000001103.000034930.html",
-      "source": "株式会社GENDA GiGO Entertainment"
     }
   ],
   "other": [
     {
+      "title": "【4月食品値上げ2,798品目】“値上げラッシュ”に立ち向かう遊べるスーパー「アミューズメントパーク万代 盛岡盛南店」グランドオープン",
+      "date": "2時間前",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000174592.html",
+      "source": "株式会社万代"
+    },
+    {
+      "title": "本日より、「Care Bears™ × ILLIT」イベントをプリクラ『NICO MAKE』にて開催！",
+      "date": "8時間前",
+      "url": "https://prtimes.jp/main/html/rd/p/000000709.000016101.html",
+      "source": "株式会社セガ フェイブ"
+    },
+    {
+      "title": "ショーケース、株式会社万代の宅配買取に本人確認ツール「ProTech ID Checker」を提供",
+      "date": "9時間前",
+      "url": "https://prtimes.jp/main/html/rd/p/000000554.000003483.html",
+      "source": "株式会社ショーケース"
+    },
+    {
       "title": "【ゴールデンウィーク】今年もやるよ！スモワル香薫®の日（5月9日）イベント「ソップリン、動きだす」開催。",
-      "date": "13時間前",
+      "date": "2026年4月20日 18時02分",
       "url": "https://prtimes.jp/main/html/rd/p/000000145.000047627.html",
       "source": "（株）SMALL WORLDS"
     },
     {
       "title": "「ナルミヤキャラクターズ」と「ROUND1」コラボキャンペーン開催のお知らせ",
-      "date": "14時間前",
+      "date": "2026年4月20日 17時00分",
       "url": "https://prtimes.jp/main/html/rd/p/000000242.000074967.html",
       "source": "株式会社Creative Plus"
     },
     {
       "title": "『おねがいアイプリ』のかわいいプライズが初登場！ アイプリたちやプリうさフレンズの「ぬいぐるみマスコット」をモーリーファンタジー・PALOにて４月24日（金）より展開開始",
-      "date": "21時間前",
+      "date": "2026年4月20日 10時30分",
       "url": "https://prtimes.jp/main/html/rd/p/000001229.000060567.html",
       "source": "株式会社イオンファンタジー"
     },
@@ -1189,18 +1201,6 @@
       "date": "2026年2月22日 15時00分",
       "url": "https://prtimes.jp/main/html/rd/p/000000230.000024989.html",
       "source": "株式会社東洋"
-    },
-    {
-      "title": "「NARUTO-ナルト- 疾風伝」×GiGOキャンペーン開催のお知らせ ",
-      "date": "2026年2月20日 15時00分",
-      "url": "https://prtimes.jp/main/html/rd/p/000001102.000034930.html",
-      "source": "株式会社GENDA GiGO Entertainment"
-    },
-    {
-      "title": "『モンスターハンターワイルズ』と「ホロライブ」のコラボ第2弾、ついに開幕！　プライズ景品＆コラボカフェ実施決定！",
-      "date": "2026年2月20日 12時06分",
-      "url": "https://prtimes.jp/main/html/rd/p/000005628.000013450.html",
-      "source": "株式会社カプコン"
     }
   ],
   "history": [
@@ -1275,5 +1275,5 @@
       "fetchedAt": "2026-04-19T12:41:23.149Z"
     }
   ],
-  "lastUpdated": "2026/4/20 22:50"
+  "lastUpdated": "2026/4/21 11:06"
 }
