@@ -74,7 +74,7 @@ function classifyNews(articles, keywords) {
   const other = [];
   
   for (const article of articles) {
-    const hasCrane = article.title.includes('クレーン');
+    const hasCrane = article.title.includes('店');
     const hasKeyword = keywords.some(k => article.title.includes(k));
     
     if (hasCrane && hasKeyword) {
