@@ -1,8 +1,14 @@
 {
   "newStore": [
     {
+      "title": "関東初上陸！“激甘・爆取れ”がコンセプトのクレーンゲーム専門店『トレジャーランド東金店』4月25日(土)グランドオープン",
+      "date": "11時間前",
+      "url": "https://prtimes.jp/main/html/rd/p/000000030.000024511.html",
+      "source": "株式会社山崎屋"
+    },
+    {
       "title": "四国・香川県にGiGOのクレーンゲーム専門店が初登場！「GiGOクレーンゲームオアシス丸亀」2026年5月2日(土)10時グランドオープン",
-      "date": "4時間前",
+      "date": "16時間前",
       "url": "https://prtimes.jp/main/html/rd/p/000001125.000034930.html",
       "source": "株式会社GENDA GiGO Entertainment"
     },
@@ -77,48 +83,42 @@
       "date": "2026年3月1日 09時00分",
       "url": "https://prtimes.jp/main/html/rd/p/000000232.000024989.html",
       "source": "株式会社東洋"
-    },
-    {
-      "title": "3月３日クレーンゲームの日特別企画人気テレビ番組でお馴染みのクレーンゲームのプロ五十嵐直也氏 完全プロデュース「クレーンゲーム達人の必勝カレー」エブリデイ全店で導入！",
-      "date": "2026年2月27日 13時00分",
-      "url": "https://prtimes.jp/main/html/rd/p/000000233.000024989.html",
-      "source": "株式会社東洋"
     }
   ],
   "other": [
     {
       "title": "タイ×キチマ「ナイトマーケット2026」開催！",
-      "date": "1時間前",
+      "date": "13時間前",
       "url": "https://prtimes.jp/main/html/rd/p/000000002.000149256.html",
       "source": "タイ王国大阪総領事館 商務部"
     },
     {
       "title": "クレーンゲームアプリ『トレバ』は4月26日でサービス開始15周年　15周年を記念したオリジナル景品が登場",
-      "date": "4時間前",
+      "date": "16時間前",
       "url": "https://prtimes.jp/main/html/rd/p/000000306.000113626.html",
       "source": "サイバーステップホールディングス"
     },
     {
       "title": "【三重県初上陸】誰でも“爆取れ”トレジャーハンター！",
-      "date": "6時間前",
+      "date": "17時間前",
       "url": "https://prtimes.jp/main/html/rd/p/000000029.000024511.html",
       "source": "株式会社山崎屋"
     },
     {
       "title": "TVアニメ『ダイヤのA actII -Second Season-』×GiGOキャンペーン開催のお知らせ",
-      "date": "7時間前",
+      "date": "18時間前",
       "url": "https://prtimes.jp/main/html/rd/p/000001128.000034930.html",
       "source": "株式会社GENDA GiGO Entertainment"
     },
     {
       "title": "DREAMS COME TRUE CONCERT TOUR 2026 THE BLACK 〇 ALBUM 限定景品が「セガUFOキャッチャーオンライン」に登場",
-      "date": "8時間前",
+      "date": "19時間前",
       "url": "https://prtimes.jp/main/html/rd/p/000000730.000016101.html",
       "source": "株式会社セガ フェイブ"
     },
     {
       "title": "CAMPERLAB（カンペールラボ）」2026SSコレクションキャンペーンを公開",
-      "date": "8時間前",
+      "date": "20時間前",
       "url": "https://prtimes.jp/main/html/rd/p/000000221.000031308.html",
       "source": "CAMPER(カンペール)"
     },
@@ -1205,6 +1205,13 @@
   ],
   "history": [
     {
+      "title": "関東初上陸！“激甘・爆取れ”がコンセプトのクレーンゲーム専門店『トレジャーランド東金店』4月25日(土)グランドオープン",
+      "date": "11時間前",
+      "url": "https://prtimes.jp/main/html/rd/p/000000030.000024511.html",
+      "source": "株式会社山崎屋",
+      "fetchedAt": "2026-04-24T22:43:18.201Z"
+    },
+    {
       "title": "四国・香川県にGiGOのクレーンゲーム専門店が初登場！「GiGOクレーンゲームオアシス丸亀」2026年5月2日(土)10時グランドオープン",
       "date": "4時間前",
       "url": "https://prtimes.jp/main/html/rd/p/000001125.000034930.html",
@@ -1317,5 +1324,5 @@
       "fetchedAt": "2026-04-19T12:41:23.149Z"
     }
   ],
-  "lastUpdated": "2026/4/24 11:05"
+  "lastUpdated": "2026/4/24 22:43"
 }
