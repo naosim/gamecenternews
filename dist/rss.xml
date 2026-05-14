@@ -5,12 +5,24 @@
     <link>https://example.com</link>
     <description>クレーンゲームの新店舗情報を每日をお届け</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 14 May 2026 11:51:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 20:48:11 GMT</lastBuildDate>
     <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[大阪市福島区海老江に「OTAICHI!! POP!! WORLD!! 大阪福島店」グランドオープン！]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000000001.000168870.html</link>
+      <pubDate>Tue, 12 May 2026 19:13:00 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
     <item>
       <title><![CDATA[店舗ごとに異なる限定デザイン！猫も小型犬も大満足！ふわもち素材のペット用お布団がクレーンゲームに登場EV]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000000262.000024989.html</link>
       <pubDate>Wed, 06 May 2026 10:00:00 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
+    <item>
+      <title><![CDATA[京都・奈良にまたがるイオンモール高の原店内にアミューズメント施設「タイトーステーション イオンモール高の原店」5月1日（金）リニューアルオープン！]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000000742.000041970.html</link>
+      <pubDate>Tue, 28 Apr 2026 14:03:00 GMT</pubDate>
       <source>PR TIMES</source>
     </item>
     <item>
@@ -44,6 +56,12 @@
       <source>PR TIMES</source>
     </item>
     <item>
+      <title><![CDATA[【4月食品値上げ2,798品目】“値上げラッシュ”に立ち向かう遊べるスーパー「アミューズメントパーク万代 盛岡盛南店」グランドオープン]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000000004.000174592.html</link>
+      <pubDate>Tue, 21 Apr 2026 17:48:00 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
+    <item>
       <title><![CDATA[六本木エリア2店舗目のGiGOが登場！「GiGO六本木芋洗坂」2026年4月8日(水)グランドオープン]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000001119.000034930.html</link>
       <pubDate>Tue, 07 Apr 2026 15:30:00 GMT</pubDate>
@@ -62,9 +80,27 @@
       <source>PR TIMES</source>
     </item>
     <item>
+      <title><![CDATA[茨城発・三世代交流型駄菓子屋「ズンドコ商店」が千葉県初進出。3月28日、あびこショッピングプラザに旗艦店をグランドオープン！]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000000004.000178190.html</link>
+      <pubDate>Fri, 27 Mar 2026 13:00:00 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
+    <item>
       <title><![CDATA[『Call of the Abyss VIII』ZETA DIVISION 優勝記念 GiGO キャンペーンが全国2店舗にて開催！「アクリルフィギュアスタンド」など新作グッズや限定プライズ景品が登場！]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000000786.000059072.html</link>
       <pubDate>Wed, 25 Mar 2026 13:00:00 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
+    <item>
+      <title><![CDATA[ココロもカラダもごちゃ混ぜで楽しめ！　「CAPCOMIX あべのHoop店」が3月31日（火）にオープン決定！　各施設紹介＆公式サイトも公開]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000005696.000013450.html</link>
+      <pubDate>Tue, 24 Mar 2026 11:00:00 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
+    <item>
+      <title><![CDATA[魚べい多摩境店が3月23日(月)にオープン!大型エンタメパネル『魚ッぴ～』を初導入]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000000227.000020954.html</link>
+      <pubDate>Mon, 23 Mar 2026 10:00:00 GMT</pubDate>
       <source>PR TIMES</source>
     </item>
     <item>
@@ -83,6 +119,12 @@
       <title><![CDATA[1階も2階も楽しめる！「あそびの広場 名西店」1階フードコート前にクレーンゲームコーナー増床オープン]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000000024.000118739.html</link>
       <pubDate>Wed, 18 Mar 2026 10:00:00 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
+    <item>
+      <title><![CDATA[新宿に新たな都市型アミューズメント施設が出現！『タイトーステーション 新宿歌舞伎町店』3月20日（金）グランドオープン！ 1～4階全フロアに『かんたん台』を展開！]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000000714.000041970.html</link>
+      <pubDate>Mon, 16 Mar 2026 16:00:00 GMT</pubDate>
       <source>PR TIMES</source>
     </item>
   </channel>
