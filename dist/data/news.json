@@ -1,6 +1,12 @@
 {
   "newStore": [
     {
+      "title": "関西最大級クレーンゲーム専門店「クレーンプラネット 久世店」　　2026年8月1日　グランドオープン決定",
+      "date": "11時間前",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000187004.html",
+      "source": "株式会社 松原興産"
+    },
+    {
       "title": "7月27日（月）、愛知県丹羽郡「MEGAドン・キホーテUNY大口店」に、ファミリーアミューズメント施設「NICOPA 大口店」がオープン",
       "date": "2026年7月25日 15時00分",
       "url": "https://prtimes.jp/main/html/rd/p/000000054.000138952.html",
@@ -1195,15 +1201,16 @@
       "date": "2026年5月29日 13時00分",
       "url": "https://prtimes.jp/main/html/rd/p/000001141.000034930.html",
       "source": "株式会社GENDA GiGO Entertainment"
-    },
-    {
-      "title": "GANG PARADE × タイトー コラボ実施決定！6/20～タイトーステーション12店舗、タイクレで限定プライズ展開",
-      "date": "2026年5月29日 11時00分",
-      "url": "https://prtimes.jp/main/html/rd/p/000000751.000041970.html",
-      "source": "株式会社タイトー"
     }
   ],
   "history": [
+    {
+      "title": "関西最大級クレーンゲーム専門店「クレーンプラネット 久世店」　　2026年8月1日　グランドオープン決定",
+      "date": "11時間前",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000187004.html",
+      "source": "株式会社 松原興産",
+      "fetchedAt": "2026-07-26T23:01:37.288Z"
+    },
     {
       "title": "7月27日（月）、愛知県丹羽郡「MEGAドン・キホーテUNY大口店」に、ファミリーアミューズメント施設「NICOPA 大口店」がオープン",
       "date": "5時間前",
@@ -1555,5 +1562,5 @@
       "fetchedAt": "2026-04-19T12:41:23.149Z"
     }
   ],
-  "lastUpdated": "2026/7/26 11:17"
+  "lastUpdated": "2026/7/26 23:01"
 }
