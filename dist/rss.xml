@@ -5,12 +5,18 @@
     <link>https://example.com</link>
     <description>クレーンゲームの新店舗情報を每日をお届け</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 23:01:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 12:54:01 GMT</lastBuildDate>
     <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[福島県初出店！クレーンゲーム専門店「クレーン横丁 極(きわみ)鏡石店」7月29日(水)にグランドオープン]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000001300.000060567.html</link>
+      <pubDate>Mon, 27 Jul 2026 12:54:01 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
     <item>
       <title><![CDATA[関西最大級クレーンゲーム専門店「クレーンプラネット 久世店」　　2026年8月1日　グランドオープン決定]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000000004.000187004.html</link>
-      <pubDate>Sun, 26 Jul 2026 23:01:37 GMT</pubDate>
+      <pubDate>Sun, 26 Jul 2026 20:30:00 GMT</pubDate>
       <source>PR TIMES</source>
     </item>
     <item>
