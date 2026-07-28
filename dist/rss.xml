@@ -5,12 +5,18 @@
     <link>https://example.com</link>
     <description>クレーンゲームの新店舗情報を每日をお届け</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Jul 2026 23:05:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 11:56:57 GMT</lastBuildDate>
     <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[この夏、春日井に３世代で楽しめる新しい遊び場が誕生！「タイトーステーション イオン春日井店」8月1日（土）グランドオープン！]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000000798.000041970.html</link>
+      <pubDate>Tue, 28 Jul 2026 11:56:57 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
     <item>
       <title><![CDATA[福島県初出店！クレーンゲーム専門店「クレーン横丁 極(きわみ)鏡石店」7月29日(水)にグランドオープン]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000001300.000060567.html</link>
-      <pubDate>Mon, 27 Jul 2026 23:05:30 GMT</pubDate>
+      <pubDate>Mon, 27 Jul 2026 10:30:00 GMT</pubDate>
       <source>PR TIMES</source>
     </item>
     <item>
@@ -143,12 +149,6 @@
       <title><![CDATA[長崎県初！GiGOのクレーンゲーム専門店が大村市に誕生「GiGOクレーンゲームオアシス サンスパおおむら」2026年6月13日(土)10時グランドオープン]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000001143.000034930.html</link>
       <pubDate>Fri, 05 Jun 2026 15:30:00 GMT</pubDate>
-      <source>PR TIMES</source>
-    </item>
-    <item>
-      <title><![CDATA[中国・上海のGiGO新戦略店舗が誕生「GiGO上海静安大悦城」2026年6月1日(月)グランドオープン！エンターテイメント・カルチャー・交流体験を融合した次世代総合エンタメ空間へ]]></title>
-      <link>https://prtimes.jp/main/html/rd/p/000001140.000034930.html</link>
-      <pubDate>Mon, 01 Jun 2026 15:30:00 GMT</pubDate>
       <source>PR TIMES</source>
     </item>
   </channel>
