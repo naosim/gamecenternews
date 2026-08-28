@@ -5,8 +5,20 @@
     <link>https://example.com</link>
     <description>クレーンゲームの新店舗情報を每日をお届け</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Aug 2026 06:00:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:05:35 GMT</lastBuildDate>
     <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[ポップカルチャーの発信地・池袋の「GiGO」旗艦店「GiGO総本店3周年祭」開催のお知らせ]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000001188.000034930.html</link>
+      <pubDate>Fri, 28 Aug 2026 21:05:35 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
+    <item>
+      <title><![CDATA[【東日本初出店】９月１日(火)「Feedy　Diner」がいよいよオープン！「Feedy Diner & Arcade」イオンモール新潟亀田インターにグランドオープン]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000001312.000060567.html</link>
+      <pubDate>Fri, 28 Aug 2026 21:05:35 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
     <item>
       <title><![CDATA[GiGO総本店・GiGO大阪道頓堀本店に今夏、ディズニーのキャラクターモチーフの景品を展開する新コーナーが登場]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000001187.000034930.html</link>
@@ -167,18 +179,6 @@
       <title><![CDATA[島根県に18年ぶりのゲームセンター出店 「namcoイオンモール出雲店」7月17日(金)オープン　新ブランドデザインを導入]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000000434.000159118.html</link>
       <pubDate>Wed, 08 Jul 2026 11:00:00 GMT</pubDate>
-      <source>PR TIMES</source>
-    </item>
-    <item>
-      <title><![CDATA[小倉駅直結！アミューズメント施設「タイトーステーション セントシティ小倉店」7月9日（木）グランドオープン！]]></title>
-      <link>https://prtimes.jp/main/html/rd/p/000000773.000041970.html</link>
-      <pubDate>Mon, 06 Jul 2026 10:22:00 GMT</pubDate>
-      <source>PR TIMES</source>
-    </item>
-    <item>
-      <title><![CDATA[GiGOのクレーンゲーム専門店が千葉・ハーバーシティ蘇我エリアに誕生「GiGOクレーンゲームオアシス フェスティバルウォーク蘇我」2026年7月10日(金)10時グランドオープン]]></title>
-      <link>https://prtimes.jp/main/html/rd/p/000001160.000034930.html</link>
-      <pubDate>Fri, 03 Jul 2026 15:30:00 GMT</pubDate>
       <source>PR TIMES</source>
     </item>
   </channel>
