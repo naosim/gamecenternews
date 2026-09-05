@@ -1,6 +1,12 @@
 {
   "newStore": [
     {
+      "title": "9/5（土）アミュージアムMEGAドン・キホーテ浜松可美店がオープンします！",
+      "date": "12時間前",
+      "url": "https://prtimes.jp/main/html/rd/p/000000028.000118739.html",
+      "source": "株式会社アムリード"
+    },
+    {
       "title": "バンダイナムコグループ各社　大阪・梅田の大型商業施設「ルクア サウス」に出店　6店舗を2026年11月から順次オープン",
       "date": "2026年9月2日 11時00分",
       "url": "https://prtimes.jp/main/html/rd/p/000000477.000159118.html",
@@ -166,25 +172,25 @@
   "other": [
     {
       "title": "『ゴジラ-0.0』 と ROUND1のコラボキャンペーン開催！",
-      "date": "6時間前",
+      "date": "2026年9月4日 17時00分",
       "url": "https://prtimes.jp/main/html/rd/p/000000089.000027772.html",
       "source": "株式会社ラウンドワンジャパン"
     },
     {
       "title": "SNSフォロワー200万人超＆ショートアニメも大好評！「らぶいーず」GiGO限定景品登場のお知らせ",
-      "date": "6時間前",
+      "date": "2026年9月4日 17時00分",
       "url": "https://prtimes.jp/main/html/rd/p/000001191.000034930.html",
       "source": "株式会社GENDA GiGO Entertainment"
     },
     {
       "title": "沖縄「ブルーシール牧港本店」２Fに、期間限定で「ブルーシール」の限定景品やプリントシール機のコーナーが登場！",
-      "date": "7時間前",
+      "date": "2026年9月4日 15時30分",
       "url": "https://prtimes.jp/main/html/rd/p/000001192.000034930.html",
       "source": "株式会社GENDA GiGO Entertainment"
     },
     {
       "title": "【映画公開記念】『映画名探偵プリキュア！不思議な庭と2人の秘密』×ナムコキャンペーン　9月18日(金)から全国のナムコで開催！",
-      "date": "12時間前",
+      "date": "2026年9月4日 11時00分",
       "url": "https://prtimes.jp/main/html/rd/p/000000480.000159118.html",
       "source": "株式会社バンダイナムコエクスペリエンス"
     },
@@ -281,14 +287,14 @@
     {
       "title": "大ヒット『タイパ至上主義麻雀』がクレーンゲームのプライズに！全国の「アピナ」をはじめとするアミューズメント施設に順次登場",
       "date": "2026年8月31日 10時00分",
-      "url": "https://prtimes.jp/main/html/rd/p/000000249.000071963.html",
-      "source": "僕と私と"
+      "url": "https://prtimes.jp/main/html/rd/p/000000065.000078998.html",
+      "source": "株式会社TRYBE"
     },
     {
       "title": "大ヒット『タイパ至上主義麻雀』がクレーンゲームのプライズに！全国の「アピナ」をはじめとするアミューズメント施設に順次登場",
       "date": "2026年8月31日 10時00分",
-      "url": "https://prtimes.jp/main/html/rd/p/000000065.000078998.html",
-      "source": "株式会社TRYBE"
+      "url": "https://prtimes.jp/main/html/rd/p/000000249.000071963.html",
+      "source": "僕と私と"
     },
     {
       "title": "【広報の本質をKindle（電子書籍）で深く学ぶ5日間】広報・PRの第一人者！井上岳久氏の著作4点が期間限定特別セールで１冊99円！気軽に読んで学べるチャンスです！",
@@ -1195,15 +1201,16 @@
       "date": "2026年7月10日 21時49分",
       "url": "https://prtimes.jp/main/html/rd/p/000000036.000126152.html",
       "source": "GRYPH FRONTIER株式会社"
-    },
-    {
-      "title": "TVアニメ【推しの子】と『ROUND1』のコラボキャンペーンが開催決定！",
-      "date": "2026年7月10日 17時00分",
-      "url": "https://prtimes.jp/main/html/rd/p/000000084.000027772.html",
-      "source": "株式会社ラウンドワンジャパン"
     }
   ],
   "history": [
+    {
+      "title": "9/5（土）アミュージアムMEGAドン・キホーテ浜松可美店がオープンします！",
+      "date": "12時間前",
+      "url": "https://prtimes.jp/main/html/rd/p/000000028.000118739.html",
+      "source": "株式会社アムリード",
+      "fetchedAt": "2026-09-05T13:14:54.282Z"
+    },
     {
       "title": "バンダイナムコグループ各社　大阪・梅田の大型商業施設「ルクア サウス」に出店　6店舗を2026年11月から順次オープン",
       "date": "12時間前",
@@ -1688,5 +1695,5 @@
       "fetchedAt": "2026-04-19T12:41:23.149Z"
     }
   ],
-  "lastUpdated": "2026/9/4 23:48"
+  "lastUpdated": "2026/9/5 13:14"
 }
