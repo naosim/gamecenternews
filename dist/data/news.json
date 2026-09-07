@@ -1,6 +1,12 @@
 {
   "newStore": [
     {
+      "title": "北東北地方初出店！地球をテーマにした屋内型こどもの遊び場「ちきゅうのにわ 盛岡店」10月7日（水）イオンモール盛岡にオープン",
+      "date": "14時間前",
+      "url": "https://prtimes.jp/main/html/rd/p/000001305.000060567.html",
+      "source": "株式会社イオンファンタジー"
+    },
+    {
       "title": "9/5（土）アミュージアムMEGAドン・キホーテ浜松可美店がオープンします！",
       "date": "2026年9月5日 10時00分",
       "url": "https://prtimes.jp/main/html/rd/p/000000028.000118739.html",
@@ -161,15 +167,27 @@
       "date": "2026年7月13日 11時00分",
       "url": "https://prtimes.jp/main/html/rd/p/000005896.000013450.html",
       "source": "株式会社カプコン"
-    },
-    {
-      "title": "年間100万人が熱狂する\"本当に獲れる\"クレーンゲームの聖地『Benex』。大和店が外装を全面刷新し『爆獲れの聖地』として7/11リニューアルオープン！",
-      "date": "2026年7月11日 10時00分",
-      "url": "https://prtimes.jp/main/html/rd/p/000000008.000126217.html",
-      "source": "株式会社ティスコ"
     }
   ],
   "other": [
+    {
+      "title": "アニメ『忍たま乱太郎』六年生＆五年生がデザインされたエッグ缶がプライズ限定で2026年9月第3週より順次登場！",
+      "date": "12時間前",
+      "url": "https://prtimes.jp/main/html/rd/p/000000100.000072221.html",
+      "source": "株式会社エス・トラスト"
+    },
+    {
+      "title": "日プ新世界で注目のLEE HYUNJAE（イ・ヒョンジェ）、＜1st FAN MEETING \"With You\" in TOKYO＞でファンを魅了「みなさん、離さないぜ」",
+      "date": "12時間前",
+      "url": "https://prtimes.jp/main/html/rd/p/000000539.000141380.html",
+      "source": "株式会社BUZZ GROUP"
+    },
+    {
+      "title": "Google表示回数が前月比76.4％増加。トレルニャン茂原店がAIO・MEO・口コミ対策ツール「クチコレ」を活用",
+      "date": "15時間前",
+      "url": "https://prtimes.jp/main/html/rd/p/000000051.000160615.html",
+      "source": "Sooon株式会社"
+    },
     {
       "title": "『ゴジラ-0.0』 と ROUND1のコラボキャンペーン開催！",
       "date": "2026年9月4日 17時00分",
@@ -1183,27 +1201,16 @@
       "date": "2026年7月13日 11時00分",
       "url": "https://prtimes.jp/main/html/rd/p/000000438.000159118.html",
       "source": "株式会社バンダイナムコエクスペリエンス"
-    },
-    {
-      "title": "アークナイツ：エンドフィールド×GiGOキャンペーン開催のお知らせ",
-      "date": "2026年7月13日 10時00分",
-      "url": "https://prtimes.jp/main/html/rd/p/000001163.000034930.html",
-      "source": "株式会社GENDA GiGO Entertainment"
-    },
-    {
-      "title": "「ごきぶり」に「やさい」のぬいぐるみ？現代美術作家・加賀美健が手がける、クレーンゲーム限定ブランド「TORENAI」誕生。",
-      "date": "2026年7月11日 15時00分",
-      "url": "https://prtimes.jp/main/html/rd/p/000000028.000060728.html",
-      "source": "株式会社ワイドレジャー"
-    },
-    {
-      "title": "『アークナイツ：エンドフィールド』7月16日、武陵最終決戦となるコアバージョン「向淵行」を配信開始。待望の「メイン任務先行解放」機能も実装！ハーフアニバーサリー記念としてGiGOとのコラボを実施決定！",
-      "date": "2026年7月10日 21時49分",
-      "url": "https://prtimes.jp/main/html/rd/p/000000036.000126152.html",
-      "source": "GRYPH FRONTIER株式会社"
     }
   ],
   "history": [
+    {
+      "title": "北東北地方初出店！地球をテーマにした屋内型こどもの遊び場「ちきゅうのにわ 盛岡店」10月7日（水）イオンモール盛岡にオープン",
+      "date": "14時間前",
+      "url": "https://prtimes.jp/main/html/rd/p/000001305.000060567.html",
+      "source": "株式会社イオンファンタジー",
+      "fetchedAt": "2026-09-07T15:30:21.757Z"
+    },
     {
       "title": "9/5（土）アミュージアムMEGAドン・キホーテ浜松可美店がオープンします！",
       "date": "12時間前",
@@ -1695,5 +1702,5 @@
       "fetchedAt": "2026-04-19T12:41:23.149Z"
     }
   ],
-  "lastUpdated": "2026/9/6 23:36"
+  "lastUpdated": "2026/9/7 15:30"
 }
