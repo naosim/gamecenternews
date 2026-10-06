@@ -5,18 +5,18 @@
     <link>https://example.com</link>
     <description>クレーンゲームの新店舗情報を每日をお届け</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Oct 2026 02:07:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:29:56 GMT</lastBuildDate>
     <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title><![CDATA[タイトー、香港で短期間に4店舗をオープンし、10号店までの展開を実現。]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000000841.000041970.html</link>
-      <pubDate>Tue, 06 Oct 2026 02:07:02 GMT</pubDate>
+      <pubDate>Mon, 05 Oct 2026 17:00:00 GMT</pubDate>
       <source>PR TIMES</source>
     </item>
     <item>
       <title><![CDATA[ベトナム北部に4店舗目の「GiGO」が誕生！「GiGOイオンハイズオン」2026年10月3日(土)グランドオープン]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000001211.000034930.html</link>
-      <pubDate>Tue, 06 Oct 2026 02:07:02 GMT</pubDate>
+      <pubDate>Mon, 05 Oct 2026 15:30:00 GMT</pubDate>
       <source>PR TIMES</source>
     </item>
     <item>
@@ -143,12 +143,6 @@
       <title><![CDATA[秋葉原「Hey」のとなりに2号店が誕生！「Hey2（ヘイツー）」2026年8月8日（土）グランドオープン！クレーンゲームを中心に、秋葉原ならではの景品を多数展開]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000000812.000041970.html</link>
       <pubDate>Fri, 07 Aug 2026 10:00:00 GMT</pubDate>
-      <source>PR TIMES</source>
-    </item>
-    <item>
-      <title><![CDATA[奈良初出店！地域最大級のクレーンゲーム専門店「ハンターズ奈良大和郡山店」が8月7日（金）10時プレオープン]]></title>
-      <link>https://prtimes.jp/main/html/rd/p/000000010.000064370.html</link>
-      <pubDate>Thu, 06 Aug 2026 20:00:00 GMT</pubDate>
       <source>PR TIMES</source>
     </item>
   </channel>
