@@ -5,12 +5,18 @@
     <link>https://example.com</link>
     <description>クレーンゲームの新店舗情報を每日をお届け</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 09 Oct 2026 01:50:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:48:33 GMT</lastBuildDate>
     <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[“クレーンゲームスーパー”が埼玉へ！多摩ノ国店の「エブリデイスーパー」が桶川へ移転、さらに行田にも新店オープン決定！]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000000354.000024989.html</link>
+      <pubDate>Fri, 09 Oct 2026 16:48:33 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
     <item>
       <title><![CDATA[京都・四条河原町に、関西エリア初のグラニフ旗艦店が登場！「グラニフ京都」、2026年11月19日(木)グランドオープン]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000000226.000067867.html</link>
-      <pubDate>Fri, 09 Oct 2026 01:50:08 GMT</pubDate>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
       <source>PR TIMES</source>
     </item>
     <item>
@@ -119,18 +125,6 @@
       <title><![CDATA[アニメ「NEEDY GIRL OVERDOSE」× ラスカル GiGOコラボキャンペーンが全国のGiGO2店舗にて開催！描き下ろしイラストの新作グッズが登場！]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000000837.000059072.html</link>
       <pubDate>Fri, 14 Aug 2026 17:00:00 GMT</pubDate>
-      <source>PR TIMES</source>
-    </item>
-    <item>
-      <title><![CDATA[プレオープンから大盛況！ クレーンゲーム専門店「ハンターズ奈良大和郡山店」が8月8日（土）グランドオープン]]></title>
-      <link>https://prtimes.jp/main/html/rd/p/000000011.000064370.html</link>
-      <pubDate>Fri, 07 Aug 2026 15:31:00 GMT</pubDate>
-      <source>PR TIMES</source>
-    </item>
-    <item>
-      <title><![CDATA[GiGOのクレーンゲーム専門店が埼玉・草加に誕生「GiGOクレーンゲームオアシス草加セーモンプラザ」2026年8月7日(金)10時グランドオープン]]></title>
-      <link>https://prtimes.jp/main/html/rd/p/000001170.000034930.html</link>
-      <pubDate>Fri, 07 Aug 2026 15:30:00 GMT</pubDate>
       <source>PR TIMES</source>
     </item>
   </channel>
