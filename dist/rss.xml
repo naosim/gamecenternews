@@ -5,12 +5,18 @@
     <link>https://example.com</link>
     <description>クレーンゲームの新店舗情報を每日をお届け</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Oct 2026 00:12:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 13:27:25 GMT</lastBuildDate>
     <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[京都の大型クレーンゲーム専門店、「クレーンプラネット」が、2店舗同時に大型店舗で大阪進出！！]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000000006.000187004.html</link>
+      <pubDate>Sat, 17 Oct 2026 13:27:25 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
     <item>
       <title><![CDATA[エリア最大級の観光拠点、タインホア市に初出店ベトナム5店舗目となる「GiGO」が2026年10月18日(日)オープン！]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000001215.000034930.html</link>
-      <pubDate>Sat, 17 Oct 2026 00:12:37 GMT</pubDate>
+      <pubDate>Fri, 16 Oct 2026 15:30:00 GMT</pubDate>
       <source>PR TIMES</source>
     </item>
     <item>
@@ -125,12 +131,6 @@
       <title><![CDATA[GiGO総本店・GiGO大阪道頓堀本店に今夏、ディズニーのキャラクターモチーフの景品を展開する新コーナーが登場]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000001187.000034930.html</link>
       <pubDate>Mon, 24 Aug 2026 17:00:00 GMT</pubDate>
-      <source>PR TIMES</source>
-    </item>
-    <item>
-      <title><![CDATA[クレーンゲーム専門店『Benex』毎月5・6日を、Benex全5店舗で、“4ブースに1ブースのアームのパワーがMAXになる日”を常設！爆獲れを実感できるクレーンゲーム体験を提供]]></title>
-      <link>https://prtimes.jp/main/html/rd/p/000000010.000126217.html</link>
-      <pubDate>Tue, 18 Aug 2026 10:10:00 GMT</pubDate>
       <source>PR TIMES</source>
     </item>
   </channel>
