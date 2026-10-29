@@ -5,24 +5,30 @@
     <link>https://example.com</link>
     <description>クレーンゲームの新店舗情報を每日をお届け</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Oct 2026 01:38:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:35:51 GMT</lastBuildDate>
     <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[山梨県初出店！クレーンゲーム専門店「クレーン横丁 極(きわみ) 石和店」12月上旬にグランドオープン予定]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000001370.000060567.html</link>
+      <pubDate>Thu, 29 Oct 2026 16:35:51 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
     <item>
       <title><![CDATA[株式会社iクレーン、全国各地のクレーンゲーム専門店で「BONX WORK」の導入拡大——新潟県三条店での活用事例を公開]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000000195.000020459.html</link>
-      <pubDate>Thu, 29 Oct 2026 01:38:16 GMT</pubDate>
+      <pubDate>Wed, 28 Oct 2026 15:30:00 GMT</pubDate>
       <source>PR TIMES</source>
     </item>
     <item>
       <title><![CDATA[元祖クレーンゲーム設置台数世界一の「エブリデイ行田店」にクレーンゲームスーパー2号店がオープン！2階フロア全体が10月30日（金）に「クレーンゲームスーパー」に大変身！]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000000381.000024989.html</link>
-      <pubDate>Thu, 29 Oct 2026 01:38:16 GMT</pubDate>
+      <pubDate>Wed, 28 Oct 2026 15:00:00 GMT</pubDate>
       <source>PR TIMES</source>
     </item>
     <item>
       <title><![CDATA[ファミリー向けアミューズメント施設「モーリーファンタジー」1日滞在型こどもの遊び場「のびっこジャンボ」島忠ホームズ寝屋川店に11月19日(木)グランドオープン！]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000001366.000060567.html</link>
-      <pubDate>Thu, 29 Oct 2026 01:38:16 GMT</pubDate>
+      <pubDate>Wed, 28 Oct 2026 10:30:00 GMT</pubDate>
       <source>PR TIMES</source>
     </item>
     <item>
@@ -119,18 +125,6 @@
       <title><![CDATA[大人も子どもも”海賊”になれる「伝説の宝島」が北海道北斗市に誕生！クレーンゲーム専門店「ゲット・ゲーム函館北斗店」が9月19日（土）グランドオープン！]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000000012.000172722.html</link>
       <pubDate>Thu, 17 Sep 2026 10:00:00 GMT</pubDate>
-      <source>PR TIMES</source>
-    </item>
-    <item>
-      <title><![CDATA[北東北地方初出店！地球をテーマにした屋内型こどもの遊び場「ちきゅうのにわ 盛岡店」10月7日（水）イオンモール盛岡にオープン]]></title>
-      <link>https://prtimes.jp/main/html/rd/p/000001305.000060567.html</link>
-      <pubDate>Mon, 07 Sep 2026 10:30:00 GMT</pubDate>
-      <source>PR TIMES</source>
-    </item>
-    <item>
-      <title><![CDATA[9/5（土）アミュージアムMEGAドン・キホーテ浜松可美店がオープンします！]]></title>
-      <link>https://prtimes.jp/main/html/rd/p/000000028.000118739.html</link>
-      <pubDate>Sat, 05 Sep 2026 10:00:00 GMT</pubDate>
       <source>PR TIMES</source>
     </item>
   </channel>
