@@ -5,8 +5,26 @@
     <link>https://example.com</link>
     <description>クレーンゲームの新店舗情報を每日をお届け</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 05:46:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 20:29:11 GMT</lastBuildDate>
     <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[クレーンプラネット高槻店とクレーンプラネットなんば店のグランドオープンが決定]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000000008.000187004.html</link>
+      <pubDate>Tue, 24 Nov 2026 20:29:11 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
+    <item>
+      <title><![CDATA[今夜のおかず、クレーンゲームで獲って冷蔵庫ロッカーへ！「万代いわき小名浜店」11月28日リニューアル]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000000008.000174592.html</link>
+      <pubDate>Tue, 24 Nov 2026 20:29:11 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
+    <item>
+      <title><![CDATA[“クレ横”史上最大店舗「クレーン横丁 極 相模原小山店」11月25日（水）グランドオープン決定]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000001406.000060567.html</link>
+      <pubDate>Tue, 24 Nov 2026 20:29:11 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
     <item>
       <title><![CDATA[namcoイズミヤSC西神戸店　2026年11月20日(金)オープン]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000000548.000159118.html</link>
@@ -149,18 +167,6 @@
       <title><![CDATA[エリア最大級の観光拠点、タインホア市に初出店ベトナム5店舗目となる「GiGO」が2026年10月18日(日)オープン！]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000001215.000034930.html</link>
       <pubDate>Fri, 16 Oct 2026 15:30:00 GMT</pubDate>
-      <source>PR TIMES</source>
-    </item>
-    <item>
-      <title><![CDATA[とって、焼いて、その場で食べる体験型クレーンゲーム「秋の焼き芋キャッチャー」10月13日から正式展開！人気のさつまいもをクレーンゲームでGET！店内の専用焼き芋器で出来立ての秋の味覚を堪能]]></title>
-      <link>https://prtimes.jp/main/html/rd/p/000000353.000024989.html</link>
-      <pubDate>Mon, 12 Oct 2026 12:13:00 GMT</pubDate>
-      <source>PR TIMES</source>
-    </item>
-    <item>
-      <title><![CDATA[“クレーンゲームスーパー”が埼玉へ！多摩ノ国店の「エブリデイスーパー」が桶川へ移転、さらに行田にも新店オープン決定！]]></title>
-      <link>https://prtimes.jp/main/html/rd/p/000000354.000024989.html</link>
-      <pubDate>Fri, 09 Oct 2026 13:00:00 GMT</pubDate>
       <source>PR TIMES</source>
     </item>
   </channel>
