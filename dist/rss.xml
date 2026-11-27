@@ -5,8 +5,20 @@
     <link>https://example.com</link>
     <description>クレーンゲームの新店舗情報を每日をお届け</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 03:58:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 19:20:20 GMT</lastBuildDate>
     <atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title><![CDATA[クレーンプラネットなんば店 グランドオープン 営業時間決定]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000000011.000187004.html</link>
+      <pubDate>Fri, 27 Nov 2026 19:20:20 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
+    <item>
+      <title><![CDATA[クレーンプラネット高槻店グランドオープン営業時間決定]]></title>
+      <link>https://prtimes.jp/main/html/rd/p/000000009.000187004.html</link>
+      <pubDate>Fri, 27 Nov 2026 19:20:20 GMT</pubDate>
+      <source>PR TIMES</source>
+    </item>
     <item>
       <title><![CDATA[ソードアート・オンライン GiGOコラボキャンペーンが全国のGiGO4店舗にて開催！新規描き下ろしイラストの新作グッズや、限定プライズ景品、ノベルティ付きドリンクなどが登場！]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000000928.000059072.html</link>
@@ -173,18 +185,6 @@
       <title><![CDATA[「もしかして、日本一うまい人が、うちにいる？」クレーンゲーム専門店Benex、“日本トップクラスのプレイヤー”を可視化するフィギュア獲得数ランキング「ベネリーグ」開幕12日間で首位は驚異の【619個】]]></title>
       <link>https://prtimes.jp/main/html/rd/p/000000011.000126217.html</link>
       <pubDate>Tue, 20 Oct 2026 14:30:00 GMT</pubDate>
-      <source>PR TIMES</source>
-    </item>
-    <item>
-      <title><![CDATA[京都の大型クレーンゲーム専門店、「クレーンプラネット」が、2店舗同時に大型店舗で大阪進出！！]]></title>
-      <link>https://prtimes.jp/main/html/rd/p/000000006.000187004.html</link>
-      <pubDate>Sat, 17 Oct 2026 16:28:00 GMT</pubDate>
-      <source>PR TIMES</source>
-    </item>
-    <item>
-      <title><![CDATA[エリア最大級の観光拠点、タインホア市に初出店ベトナム5店舗目となる「GiGO」が2026年10月18日(日)オープン！]]></title>
-      <link>https://prtimes.jp/main/html/rd/p/000001215.000034930.html</link>
-      <pubDate>Fri, 16 Oct 2026 15:30:00 GMT</pubDate>
       <source>PR TIMES</source>
     </item>
   </channel>
